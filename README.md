@@ -1,4 +1,4 @@
-# Huffman Coding in C++
+# Huffman Coding in C++ (binary tree)
 
 ## Project Description
 This project implements **Huffman Coding**, a lossless compression algorithm that reduces file size based on character frequency. The algorithm builds a binary tree to generate variable-length codes, assigning shorter codes to more frequent characters and longer codes to less frequent ones.
